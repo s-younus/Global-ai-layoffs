@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+venv/
+.DS_Store
+Thumbs.db
+data/*.csv
+global-ai-layoffs.html
