@@ -13,10 +13,10 @@
 ## 📊 Dashboard Previews
 
 ### Version 1 — Clean Analytics Dashboard
-![Dashboard V1](assets/dashboard_v1.png)
+![Dashboard V1](dashboard_v1.png)
 
 ### Version 2 — Advanced Analytics Dashboard
-![Dashboard V2](assets/dashboard_v2.png)
+![Dashboard V2](dashboard_v2.png)
 
 ---
 
