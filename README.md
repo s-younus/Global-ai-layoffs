@@ -99,7 +99,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/amgadyassin/global-ai-layoffs.git
+git clone [https://github.com/s-younus/Global-ai-layoffs).git]
 cd global-ai-layoffs
 ```
 
