@@ -127,16 +127,7 @@ The dataset is fetched automatically when you run `01_data_cleaning.ipynb` via t
 
 > If you prefer to download manually, get it from [Kaggle](https://www.kaggle.com/datasets/belbino/global-ai-layoffs-and-job-market-2020-present) and place it in `data/` as `layoffs_events.csv`.
 
-**4. Run the notebooks in order**
 
-| Notebook | Output |
-|---|---|
-| `01_data_cleaning.ipynb` | Generates `global_ai_layoffs_cleaned.csv` |
-| `02_data_visualization.ipynb` | Static EDA charts |
-| `03_dashboard.ipynb` | Dashboard at http://127.0.0.1:8050 |
-| `04_dashboard_v2.ipynb` | Dashboard at http://127.0.0.1:8051 |
-
----
 
 ## 🛠️ Tech Stack
 
